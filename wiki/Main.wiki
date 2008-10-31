@@ -1,6 +1,4 @@
-#summary One-sentence summary of this page.
 #labels Phase-Requirements
-
 = Introduction =
 
 This will be help for hosting script installation like Fantastico. Fantastico install with Latin Encoding and this code can covert to UTF-8.
