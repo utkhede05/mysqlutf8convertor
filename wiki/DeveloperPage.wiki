@@ -1,4 +1,4 @@
-=Don't use zawgyi=
+=Don't use zawgyi OR Don't change value to zawgyi=
 Yes, you can remove or comment at line 96 to 103 in db_setup.php
 
 current :
